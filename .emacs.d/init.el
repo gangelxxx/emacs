@@ -11,7 +11,7 @@
 (add-to-list 'load-path "~/.emacs.d/")
 (add-to-list 'load-path "~/.emacs.d/plugins/")
 
-;РќСѓРјРµСЂР°С†РёСЏ СЃС‚СЂРѕРє
+;Нумерация строк
 ;; http://code.google.com/p/dea/source/browse/trunk/my-lisps/linum%2B.el
 (require 'linum+)
 (setq linum-format "%d ")
